@@ -6,23 +6,29 @@
 		<thead>
 			<th>Serial No.</th>
 			<th>Name</th>
+			<th>Rating</th>
 		</thead>
 		<tbody>
 			<tr>
 				<td>1</td>
-				<td>GTA</td>
+				<td>GTA</td
+				<td>4.5</td>
+				
 			</tr>
 			<tr>
 				<td>2</td>
-				<td>AWS</td>
+				<td>RDD-2</td>
+				<td>4</td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>Roadrash</td>
+				<td>3.5</td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>NFS</td>
+				<td>4.3</td>
 			</tr>
 		</tbody>
 	</table>
