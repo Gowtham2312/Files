@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
 				<td>1</td>
-				<td>GTA</td
+				<td>GTA</td>
 				<td>4.5</td>
 				
 			</tr>
